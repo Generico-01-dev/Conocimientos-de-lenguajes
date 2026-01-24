@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+    int numero;
+    
+    do {
+        printf("Por favor, introduce un numero positivo: ");
+        scanf("%d", &numero);
+        
+        if (numero <= 0) {
+            printf("Error: %d no es positivo. Intentalo de nuevo.\n", numero);
+        }
+        
+    } while (numero <= 0); // OJO: El do-while lleva punto y coma al final
+
+    printf("¡Genial! Has introducido el %d.\n", numero);
+
+    return 0;
+}
