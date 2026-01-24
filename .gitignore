@@ -1,0 +1,13 @@
+# --- Compilados de C (Binarios) ---
+*.exe
+*.o
+*.out
+*.dll
+
+# --- Archivos del Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Carpetas de configuración de editores ---
+.vscode/
+.idea/
