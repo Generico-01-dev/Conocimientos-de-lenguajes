@@ -10,6 +10,8 @@ int main() {
     int l = 5;
     int area;
     
+    float p1 = 4.5, p2 = 6.2;
+
     saludar();
     
     // Llamamos a la función que devuelve algo y guardamos el resultado
@@ -18,6 +20,7 @@ int main() {
     
     // Podemos llamar a una función directamente dentro de un printf
     printf("El promedio de 4.5 y 6.2 es: %.2f\n", promedio(4.5, 6.2));
+    printf("El promedio de 4.5 y 6.2 es: %.2f\n", promedio(p1, p2));
     
     return 0;
 }
