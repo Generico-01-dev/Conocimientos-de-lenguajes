@@ -16,6 +16,19 @@ Aquí exploro los fundamentos de la programación estructurada y gestión de mem
 - **08_gestion_de_memoria**: Reservas de memoria y funcionamiento de los arrays dinámicos
 - **09_structs**: Como crear tipos de datos propios y como usarlos
 
+### 🐍 Lenguaje Python
+En este apartado se tratarán los fundamentos básicos de pyhton
+- **01_basicos**: Variables y uso de `scanf`
+- **02_control_de_flujo**: 
+- **03_estructuras_de_datos**: 
+- **04_funciones**: 
+- **05_modulos_y_pip**: 
+- **06_archivos_excepciones**: 
+- **08_proyectos**: 
+
+
+
+
 
 ## 🛠️ Herramientas
 - **Editor:** VS Code
