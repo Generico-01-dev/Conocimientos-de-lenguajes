@@ -18,7 +18,7 @@ Aquí exploro los fundamentos de la programación estructurada y gestión de mem
 
 ### 🐍 Lenguaje Python
 En este apartado se tratarán los fundamentos básicos de pyhton
-- **01_basicos**: Variables y uso de `scanf`
+- **01_basicos**: Variables y uso de "`scanf`"
 - **02_control_de_flujo**: 
 - **03_estructuras_de_datos**: 
 - **04_funciones**: 
