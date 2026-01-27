@@ -13,6 +13,8 @@ Aquí exploro los fundamentos de la programación estructurada y gestión de mem
 - **05_arrays_y_strings**: Ejemplos de uso de arrays estáticos y strings (char -> Cadenas de caracteres)
 - **06_funciones**: Ejemplos del funcionamiento básico de las funciones y como funciona el paso por valor
 - **07_punteros**: Funcionamiento basico de los punteros y el como funciona el paso de valores por referencia
+- **08_gestion_de_memoria**: Reservas de memoria y funcionamiento de los arrays dinámicos
+- **09_structs**: Como crear tipos de datos propios y como usarlos
 
 
 ## 🛠️ Herramientas
