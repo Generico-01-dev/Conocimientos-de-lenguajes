@@ -11,3 +11,15 @@ Thumbs.db
 # --- Carpetas de configuración de editores ---
 .vscode/
 .idea/
+/Java/00_HolaMundo/HolaMundo/nbproject/private/
+/Java/00_HolaMundo/HolaMundo/build/
+/Java/01_Metodos/Metodos_Basicos/nbproject/private/
+/Java/01_Metodos/Metodos_Basicos/build/
+/Java/02_clases/Clases/nbproject/private/
+/Java/02_clases/Clases/build/
+/Java/03_Variables/Variables/nbproject/private/
+/Java/03_Variables/Variables/build/
+/Java/04_Entrada_de_datos/Entrada_de_datos/nbproject/private/
+/Java/04_Entrada_de_datos/Entrada_de_datos/build/
+/Java/05_Practicas_basicas/Suma_dos_numeros/Suma_dos_numeros/nbproject/private/
+/Java/05_Practicas_basicas/Suma_dos_numeros/Suma_dos_numeros/build/

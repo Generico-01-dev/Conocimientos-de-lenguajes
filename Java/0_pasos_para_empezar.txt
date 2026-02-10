@@ -1,0 +1,5 @@
+Instalar el jdk: 
+    - Se puede instalar la ultima versión o la de largo soporte
+
+Instalar el IDE / Comenzar a programar en un editor de cófigo básico como VS Code
+

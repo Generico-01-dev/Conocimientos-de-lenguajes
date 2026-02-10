@@ -16,7 +16,14 @@ Aquí exploro los fundamentos de la programación estructurada y gestión de mem
 - **08_gestion_de_memoria**: Reservas de memoria y funcionamiento de los arrays dinámicos
 - **09_structs**: Como crear tipos de datos propios y como usarlos
 
-### 🐍 Lenguaje Python
+### Java
+En este apartado se tratarán los fundamentos de Java
+- **00_HolaMundo**: Se trata como hacer un hola mundo y como imprimir texto y números por pantalla
+- **01_Metodos**: Se muestra la creación básica de un método public y como utilizarlo
+
+
+
+### 🐍 Lenguaje Python 
 En este apartado se tratarán los fundamentos básicos de pyhton
 - **01_basicos**: Variables y uso de "`scanf`"
 - **02_control_de_flujo**: 
