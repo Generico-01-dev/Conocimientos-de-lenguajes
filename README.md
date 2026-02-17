@@ -20,6 +20,13 @@ Aquí exploro los fundamentos de la programación estructurada y gestión de mem
 En este apartado se tratarán los fundamentos de Java
 - **00_HolaMundo**: Se trata como hacer un hola mundo y como imprimir texto y números por pantalla
 - **01_Metodos**: Se muestra la creación básica de un método public y como utilizarlo
+- **02_Clases**: Se muestra la creación de la clase más básica: Main
+- **03_Variables**: Se muestra como usar e imprimir distintos tipos de variables
+- **04_Entrada_de_datos**: Se trata como pedir al usuario que ingrese datos y como usarlos
+- **05_Practicas_basicas**: Hay algunos problemas muy sencillos de resolver con los datos aprendidos hasta ahora
+- **06_Control_de_flujo**: Se enseña el uso de `switch`, `if`, `while` y `for`
+- **07_Matrices_y_vectores**: Se enseña como crear y recorrer matrices y vectores
+
 
 
 
