@@ -26,6 +26,9 @@ En este apartado se tratarán los fundamentos de Java
 - **05_Practicas_basicas**: Hay algunos problemas muy sencillos de resolver con los datos aprendidos hasta ahora
 - **06_Control_de_flujo**: Se enseña el uso de `switch`, `if`, `while` y `for`
 - **07_Matrices_y_vectores**: Se enseña como crear y recorrer matrices y vectores
+- **08_Funciones_y_clases**: Se muestra el uso básico de las funciones y clases como Math y String
+- **09_Practicas_sencillas**: A partir de los conocimientos de los anteriores apartados se realizan una sere de practicas sencillas.
+(PAUSA)
 
 
 
@@ -39,7 +42,7 @@ En este apartado se tratarán los fundamentos básicos de pyhton
 - **05_modulos_y_pip**: 
 - **06_archivos_excepciones**: 
 - **08_proyectos**: 
-
+(PAUSA)
 
 
 
