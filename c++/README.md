@@ -1,1 +1,0 @@
-En este apartado cada punto será una evolucion del anterior, por lo que el codigo se reutilizará a medida que vaya aumentando el numero
