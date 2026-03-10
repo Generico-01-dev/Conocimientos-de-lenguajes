@@ -4,7 +4,7 @@ Bienvenido a mi repositorio personal de aprendizaje. Aquí documento mi progreso
 
 ## 📚 Estructura del repositorio
 
-### 🟢 Lenguaje C
+### Lenguaje C
 Aquí exploro los fundamentos de la programación estructurada y gestión de memoria.
 - **01_basicos**: Variables y tipos de datos.
 - **02_entrada_usuario**: Uso de `scanf` e interacción por consola.
@@ -15,6 +15,16 @@ Aquí exploro los fundamentos de la programación estructurada y gestión de mem
 - **07_punteros**: Funcionamiento basico de los punteros y el como funciona el paso de valores por referencia
 - **08_gestion_de_memoria**: Reservas de memoria y funcionamiento de los arrays dinámicos
 - **09_structs**: Como crear tipos de datos propios y como usarlos
+
+### Lenguaje C++
+En este apartado exploro los conceptos de la Programación Orientada a Objetos (POO).
+- **01_Clases**: Creación básica de clases, definición de atributos públicos y métodos.
+- **02_Encapsulacion**: Uso de modificadores de acceso (`private`, `public`) y creación de *getters* y *setters* para proteger los datos internos de la clase.
+- **03_Constructores**: Inicialización de objetos mediante constructores por defecto y constructores parametrizados.
+- **04_Herencia**: Creación de clases derivadas (ej. `Empleado` hereda de `Persona`), reutilización de código y uso del modificador `protected`.
+- **05_Override**: Sobrescritura de métodos en clases hijas utilizando las palabras reservadas `virtual` en la clase base y `override` en la derivada.
+- **06_Polimorfismo**: Uso de colecciones (vectores) y punteros de la clase base para almacenar y ejecutar dinámicamente métodos de clases derivadas.
+- **07_Metodos_estaticos**: Creación y uso de métodos estáticos (`static`) que pertenecen a la clase en sí y no a las instancias individuales (objetos).
 
 ### Java
 En este apartado se tratarán los fundamentos de Java
@@ -32,9 +42,8 @@ En este apartado se tratarán los fundamentos de Java
 
 
 
-
-### 🐍 Lenguaje Python 
-En este apartado se tratarán los fundamentos básicos de pyhton
+### Lenguaje Python 
+En este apartado se tratarán los fundamentos básicos de python
 - **01_basicos**: Variables y uso de "`scanf`"
 - **02_control_de_flujo**: 
 - **03_estructuras_de_datos**: 
@@ -43,9 +52,6 @@ En este apartado se tratarán los fundamentos básicos de pyhton
 - **06_archivos_excepciones**: 
 - **08_proyectos**: 
 (PAUSA)
-
-
-
 
 ## 🛠️ Herramientas
 - **Editor:** VS Code
